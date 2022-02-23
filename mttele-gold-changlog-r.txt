@@ -1,4 +1,4 @@
-Version 8.00. Changelog:
+Version '8' Changelog:
 
 > New reaction animations. Hold finger on a reaction to enjoy full animation.
 > Added option to add Telegram/Plus folder when using 'Save to â€¦' option.
