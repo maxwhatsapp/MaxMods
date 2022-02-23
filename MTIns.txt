@@ -6,3 +6,4 @@ MTInstagram v8.00
 [اضافة] ميزة تغيير الايقونات.
 [اصلاح] جميع المشاكل.
 [مزيد] إصلاحات وتحسينات أخرى. 
+8||https://t.me/mtwhatsapp|https://t.me/mtwhatsapp
