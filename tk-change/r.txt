@@ -1,12 +1,1 @@
-Version 1.00. Changelog:
 
->Update the base to the latest version in Google Play 23.4.4
->Optimized graphics
->Disabled unnecessary activities
->Enabled High Quality Audio
->Enabled High Quality Video
->Enabled Ultra Resolution
->Disabled autostart
->Enabled Anti Aliasing
->Disabled wakelocks
->Bugs Fixed
