@@ -1,4 +1,4 @@
-{"version_code":9,"content":"
+{"version_code":1,"content":"
 <p>تحديث 8.00</p>
 
 <li>مبني على قاعدة 151.0.0.23.120</li>
