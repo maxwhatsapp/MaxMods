@@ -1,6 +1,6 @@
 { 
    "force_update":false,
-   "version":1.00,
+   "version":2.00,
    "changelog":"
    \nتحديث أصلاحي
    \nمبني على اخر اصدار من جوجل بلاي 23.4.4
