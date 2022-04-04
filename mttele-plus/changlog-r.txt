@@ -1,10 +1,40 @@
-Version .9.00. Changelog:
+Version 9.00. Changelog:
 
-> New reaction animations. Hold finger on a reaction to enjoy full animation.
-> Added option to add MTTelegram/gold folder when using 'Save to â€¦' option.
-> Added option to change action when swiping message to left. Long press option to select a different action for your own messages.
-> Added option to hide reactions from context menu.
-> Added option to select double tap on message action. Long press option to select a different action for your own messages.
-> Added option to always show spoilers.
-> Added option to disable reaction animation.
+> Updated source code to v8.6.2.
+> Added hex codes to theme color editor. 
 > Bug fixes and other minor improvements.
+> Added return to message stack when pressing replies/page down button in chat
+> Option to add seconds to time in chat
+> Bug fixes and other minor improvements.
+> Option to enable blur in chat for any device (it can worsen user experience on average/low performance devices).
+> Bug fixes and other minor improvements.
+> Download Manager, Improved Attachment Menu, Stunning Dark Mode, and More
+> Check the status of downloads from the Search button > Downloads.
+> Pause or resume all downloads or specific files.
+> Preview and rearrange media albums before sending.
+> Enjoy semi-transparent effects on headers and panels in Dark Mode.
+> Sign up and log in through a redesigned interface with new animations.
+> Share a direct link to your phone number that opens a chat with you, like t.me/+123456789
+> Option to show all marked messages from drawer menu (option hidden by default).
+> Option to select all chats from main screen when forwarding.
+> Option to schedule message from main screen when forwarding.
+> Option to select all files from profile.
+> Option to add to folder more than one selected chat.
+> Option to show more results in global search by default
+> Added new screen â€™Downloadsâ€™. By default it's shown in drawer menu only if there are active downloads
+> Option to schedule downloads. Scheduled downloads will be added to â€™Saved Messagesâ€™ as a reminder.
+> Option to show/hide not active but pending downloads in Downloads screen.
+> Option to increase simultaneous downloads (beta only) in Downloads screen.
+> Option to hide alert dialog on cache deleting in chat.
+> Option to show full bio/info in profile
+> Option to select â€™direct shareâ€™ button action in chat Long click option to change long click button action.
+> Bug fixes and other minor improvements.
+Video Stickers, Better Reactions and More
+> Convert any videos into easy-to-make .webm video stickers.
+> React with extra emoji showing love, appreciation, anger or surprise.
+> Reactions show smaller, compact animations.
+> Press and hold an emoji in the reaction menu to send a bigger animation.
+> Tap the button in chats to jump to messages with unseen reactions.
+> Quickly return to a specific chat after following links to other chats.
+> Added option to open 'Saved Messages' by clicking floating button
+> Added option to change action by swiping message to right. Long press option to select a different action for your own messages 
