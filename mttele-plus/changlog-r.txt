@@ -1,1 +1,10 @@
+Version .9.00. Changelog:
 
+> New reaction animations. Hold finger on a reaction to enjoy full animation.
+> Added option to add MTTelegram/gold folder when using 'Save to â€¦' option.
+> Added option to change action when swiping message to left. Long press option to select a different action for your own messages.
+> Added option to hide reactions from context menu.
+> Added option to select double tap on message action. Long press option to select a different action for your own messages.
+> Added option to always show spoilers.
+> Added option to disable reaction animation.
+> Bug fixes and other minor improvements.
