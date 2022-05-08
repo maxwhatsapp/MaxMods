@@ -1,8 +1,8 @@
-Version 1.90. Changelog:
+الإصدار 1.90.1 التغيير:
 
-> Rework Time Line
-> Implement Group Users Filtering for Transfer Member
-> Redesigned icon selection in settings
-> Improved display performance of deleted messages
-> Implement settings for Drawer icon theme
-> Implement settings for swipe to next channel
+> الخط الزمني لإعادة العمل
+> تنفيذ تصفية مستخدمي المجموعة لعضو النقل
+> اختيار الرمز المعاد تصميمه في الإعدادات
+> تحسين أداء عرض الرسائل المحذوفة
+> تنفيذ إعدادات سمة رمز الدرج
+> تنفيذ الإعدادات للتمرير إلى القناة التالية
