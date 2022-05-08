@@ -1,8 +1,8 @@
-Version 1.90. Changelog:
+Ø§Ù„Ø¥ØµØ¯Ø§Ø± 1.90. Ø§Ù„ØªØºÙŠÙŠØ±Ø§Øª:
 
-> Rework Time Line
-> Implement Group Users Filtering for Transfer Member
-> Redesigned icon selection in settings
-> Improved display performance of deleted messages
-> Implement settings for Drawer icon theme
-> Implement settings for swipe to next channel
+> Ø§Ø¶Ø§ÙØ© Ø§Ù„Ø¬Ø¯ÙˆÙ„ Ø§Ù„Ø²Ù…Ù†ÙŠ Ù„Ø¥Ø¹Ø§Ø¯Ø© Ø§Ù„Ø¹Ù…Ù„
+> ØªÙ†ÙÙŠØ° ØªØµÙÙŠØ© Ù…Ø³ØªØ®Ø¯Ù…ÙŠ Ø§Ù„Ù…Ø¬Ù…ÙˆØ¹Ø© Ù„Ù†Ù‚Ù„ Ø§Ù„Ø£Ø¹Ø¶Ø§Ø¡
+> Ø§Ø®ØªÙŠØ§Ø± Ø§Ù„Ø§ÙŠÙ‚ÙˆÙ†Ù‡ Ø§Ù„Ù…Ø¹Ø§Ø¯ ØªØµÙ…ÙŠÙ…Ù‡ ÙÙŠ Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª
+> ØªØ­Ø³ÙŠÙ† Ø£Ø¯Ø§Ø¡ Ø¹Ø±Ø¶ Ø§Ù„Ø±Ø³Ø§Ø¦Ù„ Ø§Ù„Ù…Ø­Ø°ÙˆÙØ©
+> Ù‚Ù… Ø¨ØªÙ†ÙÙŠØ° Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø®Ø§ØµØ© Ø¨Ø³Ù…Ø© Ø§ÙŠÙ‚ÙˆÙ†Ø© Ø§Ù„Ø¯Ø±Ø¬
+> ØªÙ†ÙÙŠØ° Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ù„Ù„ØªÙ…Ø±ÙŠØ± Ø¥Ù„Ù‰ Ø§Ù„Ù‚Ù†Ø§Ø© Ø§Ù„ØªØ§Ù„ÙŠØ©
