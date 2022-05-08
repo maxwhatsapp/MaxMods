@@ -1,8 +1,8 @@
-الإصدار 8.00. التغيير:
+Version 8.00. Changelog:
 
-> الخط الزمني لإعادة العمل
-> تنفيذ تصفية مستخدمي المجموعة لعضو النقل
-> اختيار الرمز المعاد تصميمه في الإعدادات
-> تحسين أداء عرض الرسائل المحذوفة
-> تنفيذ إعدادات سمة رمز الدرج
-> تنفيذ الإعدادات للتمرير إلى القناة التالية
+> Rework Time Line
+> Implement Group Users Filtering for Transfer Member
+> Redesigned icon selection in settings
+> Improved display performance of deleted messages
+> Implement settings for Drawer icon theme
+> Implement settings for swipe to next channel
