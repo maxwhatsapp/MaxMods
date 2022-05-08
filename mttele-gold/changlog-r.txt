@@ -1,1 +1,8 @@
+Version 8.00. Changelog:
 
+> Rework Time Line
+> Implement Group Users Filtering for Transfer Member
+> Redesigned icon selection in settings
+> Improved display performance of deleted messages
+> Implement settings for Drawer icon theme
+> Implement settings for swipe to next channel
