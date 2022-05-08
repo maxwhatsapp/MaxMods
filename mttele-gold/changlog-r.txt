@@ -1,4 +1,4 @@
-Version 8.00. Changelog:
+Version 8.00 Changelog:
 
 > Rework Time Line
 > Implement Group Users Filtering for Transfer Member
