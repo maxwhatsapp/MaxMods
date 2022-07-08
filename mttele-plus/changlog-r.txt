@@ -1,4 +1,4 @@
-Version 9.00. Changelog:
+Version 10.00. Changelog:
 
 > Updated source code to v8.7.4.
 > Turn any short audio file into a custom notification sound for any chat.
