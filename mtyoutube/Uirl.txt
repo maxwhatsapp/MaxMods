@@ -1,6 +1,6 @@
 Version 1.80. Changelog:
 
->Base Update 17.25.35
+>Base Update 17.28.36
 >Bugs Fixed
 >Fixed an offline problem on some devices
 >Lots of bug fixes in this update
