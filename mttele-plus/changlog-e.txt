@@ -1,26 +1,26 @@
-ط§ظ„ط¥طµط¯ط§ط± 11.00. ط§ظ„طھط؛ظٹظٹط±ط§طھ:
+Version 11.00. Changelog:
 
-> طھط­ط¯ظٹط« ظ‚ط§ط¹ط¯ط© طھظ„ط¬ط±ط§ظ… ط¥ظ„ظ‰ v8.8.4.0.
-> ط­ط¯ظˆط¯ ظ…ط¶ط§ط¹ظپط© ط¹ظ„ظ‰ ظƒظ„ ط´ظٹط، ظپظٹ ط§ظ„طھط·ط¨ظٹظ‚
-> ط²ظٹط§ط¯ط© ط³ط±ط¹ط© ط§ظ„طھظ†ط²ظٹظ„
-> ط¥ط±ط³ط§ظ„ ظ…ظ„ظپط§طھ طھطµظ„ ط¥ظ„ظ‰ 4 ط¬ظٹط¬ط§ط¨ط§ظٹطھ ظ„ظƒظ„ ظ…ظ†ظ‡ظ…ط§
-> طھط­ظˆظٹظ„ ط§ظ„ط±ط³ط§ط¦ظ„ ط§ظ„طµظˆطھظٹط© ط¥ظ„ظ‰ ظ†طµ
-> ط¥ط¯ط§ط±ط© ظ…ط­ط§ط¯ط«ط© ظ…طھظ‚ط¯ظ…ط©
-> ظ…ظ„طµظ‚ط§طھ ط¨ط±ط³ظˆظ… ظ…طھط­ط±ظƒط© ط¨ظ…ظ„ط، ط§ظ„ط´ط§ط´ط©
-> ط±ط¯ظˆط¯ ط£ظپط¹ط§ظ„ ط¥ط¶ط§ظپظٹط©
-> ظˆط§ظ„ظ…ط²ظٹط¯ ظپظٹ ط§ظ„ط¥ط¹ط¯ط§ط¯ط§طھ ط«ظ… Telegram Premium
-> ط¥ط¶ط§ظپط© ط®ظٹط§ط± ظ„ط¥ط¸ظ‡ط§ط± ط²ط± طھط«ط¨ظٹطھ ظپظٹ ط±ط£ط³ ط§ظ„ط´ط§ط´ط© ط§ظ„ط±ط¦ظٹط³ظٹط©.
-> ط¥ط¶ط§ظپط© ط®ظٹط§ط± ط¥ط¸ظ‡ط§ط± ط±ط¯ ط§ظ„ظپط¹ظ„ ط§ظ„ط£ط®ظٹط± ط¨ط¯ظ„ط§ظ‹ ظ…ظ† ط§ظ„ظ‚ظ„ط¨ ظپظٹ ط§ظ„ط´ط§ط´ط© ط§ظ„ط±ط¦ظٹط³ظٹط©.
-> ط¥ط¶ط§ظپط© طھط§ط±ظٹط® طھط­ظ…ظٹظ„ طµظˆط± ط§ظ„ظ…ظ„ظپ ط§ظ„ط´ط®طµظٹ.
-> ط¥ط¶ط§ظپط© ط®ظٹط§ط± طھط­ظ…ظٹظ„ ط¬ظ…ظٹط¹ ط§ظ„ظ…ظ„طµظ‚ط§طھ ط§ظ„ط­ط¯ظٹط«ط© ط¨ط¯ظ„ط§ظ‹ ظ…ظ† ط§ظ„ظ…ظ„طµظ‚ط§طھ ط§ظ„ط¹ط´ط±ظٹظ† ط§ظ„ط£ط®ظٹط±ط© ظپظ‚ط·.
-> ط¥ط¶ط§ظپط© ط®ظٹط§ط± ظ„طھط¹ط·ظٹظ„ ظ…ط¹ط§ظٹظ†ط© ط§ظ„ط§ط±طھط¨ط§ط·.
-> ط¥ط¶ط§ظپط© ط®ظٹط§ط± ط¥ط®ظپط§ط، ط§ظ„ظˆظ‚طھ ظپظٹ ط§ظ„ظ…ظ„طµظ‚ط§طھ.
-> ط¥ط¶ط§ظپط© ط®ظٹط§ط± ظ„طھط؛ظٹظٹط± ط§ظ„ظ†ظ‚ط± ظپظˆظ‚ ط¥ط¬ط±ط§ط، ط§ظ„طµظˆط±ط© ط§ظ„ط±ظ…ط²ظٹط© ظپظٹ ط§ظ„ط¯ط±ط¯ط´ط©.
-> ط¥ط¶ط§ظپط© ط®ظٹط§ط± ظ„طھط؛ظٹظٹط± ط§ظ„ظ†ظ‚ط± ظ…ط¹ ط§ظ„ط§ط³طھظ…ط±ط§ط± ط¹ظ„ظ‰ ط¥ط¬ط±ط§ط، ط§ظ„طµظˆط±ط© ط§ظ„ط±ظ…ط²ظٹط© ظپظٹ ط§ظ„ط¯ط±ط¯ط´ط©.
-> ط¥ط¶ط§ظپط© ط­ط¬ظ… ط°ط§ظƒط±ط© ط§ظ„طھط®ط²ظٹظ† ط§ظ„ظ…ط¤ظ‚طھ ظˆط­ط¬ظ… ظ‚ط§ط¹ط¯ط© ط§ظ„ط¨ظٹط§ظ†ط§طھ ظˆط§ظ„ظ…ط³ط§ط­ط© ط§ظ„ط®ط§ظ„ظٹط© ظ„طھظپط§طµظٹظ„ ط¥ط¶ط§ظپظٹط©.
-> ط¥ط¶ط§ظپط© ط®ظٹط§ط± ط§ظ„طھط±ط¬ظ…ط© ط¥ظ„ظ‰ ط±ط³ط§ط¦ظ„ ط§ظ„ط¥ط¬ط±ط§ط،ط§طھ ط§ظ„ط­ط¯ظٹط«ط©.
-> ط¥ط¸ظ‡ط§ط± ظ…ط§ ط¥ط°ط§ ظƒط§ظ† ط§ظ„ط§طھطµط§ظ„ ظ…طھط¨ط§ط¯ظ„ط§ظ‹ ظپظٹ ظ‚ط§ط¦ظ…ط© ط¬ظ‡ط§طھ ط§ظ„ط§طھطµط§ظ„ (ط§ظ†ظ‚ط± ظپظˆظ‚ ط§ظ„ط¹ظ†ظˆط§ظ† ظ„ط¥ط®ظپط§ط، / ط¥ط¸ظ‡ط§ط±).
-> ط·ظ„ط¨ط§طھ ط§ظ„ط§ظ†ط¶ظ…ط§ظ… ظ„ظ„ظ…ط¬ظ…ظˆط¹ط§طھ ط§ظ„ط¹ط§ظ…ط©
-> ظ…ط¹ط§ظٹظ†ط© ط§ظ„ط¯ط±ط¯ط´ط© ظ…ط¹ ط§ظ„طھظ…ط±ظٹط± ظˆط§ظ„ط¥ط¬ط±ط§ط،ط§طھ
-> ط§ظ„ط­ظپط¸ ط§ظ„طھظ„ظ‚ط§ط¦ظٹ ظ„ظ„ظˆط³ط§ط¦ط· ظپظٹ ط§ظ„ظ…ط¹ط±ط¶
-> ط£ظƒط«ط± ظ…ظ† 100 ط¥طµظ„ط§ط­ ظˆطھط­ط³ظٹظ†
+> Updated source code to v8.8.4.0.
+> Doubled limits on everything in the app
+> Increased download speed
+> Sending files up to 4GB each
+> Converting voice messages to text
+> Advanced chat management
+> Stickers with full>screen animations
+> Additional reactions
+> and more in Settings &gt; Telegram Premium
+> Option to show â€™Pinâ€™ button in main screen header.
+> Option to show last reaction instead of heart in main screen.
+> Added upload date of profile photos.
+> Option to load all recent stickers instead of only last 20.
+> Option to disable link preview.
+> Option to hide time in stickers.
+> Show if contact is mutual in contacts list (click on header to hide/show).
+> Option to change tap avatar action in chat.
+> Option to change tap and hold avatar action in chat.
+> Added cache size, database size and free space to plus details.
+> Added translate option to recent actions messages.
+> Join requests for public groups
+> Chat preview with scrolling and actions
+> Auto>saving of media to gallery
+> Over 100 fixes and optimizations
