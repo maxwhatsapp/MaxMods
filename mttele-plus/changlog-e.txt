@@ -1,26 +1,12 @@
-Version 11.00. Changelog:
+ط§ظ„ط¥طµط¯ط§ط± 11.00. ط§ظ„طھط؛ظٹظٹط±ط§طھ:
 
-> Updated source code to v8.8.4.0.
-> Doubled limits on everything in the app
-> Increased download speed
-> Sending files up to 4GB each
-> Converting voice messages to text
-> Advanced chat management
-> Stickers with full>screen animations
-> Additional reactions
-> and more in Settings &gt; Telegram Premium
-> Option to show â€™Pinâ€™ button in main screen header.
-> Option to show last reaction instead of heart in main screen.
-> Added upload date of profile photos.
-> Option to load all recent stickers instead of only last 20.
-> Option to disable link preview.
-> Option to hide time in stickers.
-> Show if contact is mutual in contacts list (click on header to hide/show).
-> Option to change tap avatar action in chat.
-> Option to change tap and hold avatar action in chat.
-> Added cache size, database size and free space to plus details.
-> Added translate option to recent actions messages.
-> Join requests for public groups
-> Chat preview with scrolling and actions
-> Auto>saving of media to gallery
-> Over 100 fixes and optimizations
+> طھط­ط¯ظٹط« ظ‚ط§ط¹ط¯ط© طھظ„ط¬ط±ط§ظ… ط¥ظ„ظ‰ v9.0.2.
+> ط±ط¯ظˆط¯ ط§ظ„ظپط¹ظ„ ط§ظ„ظ„ط§ظ†ظ‡ط§ط¦ظٹط© ظˆط­ط§ظ„ط§طھ ط§ظ„ط±ظ…ظˆط² ط§ظ„طھط¹ط¨ظٹط±ظٹط© ظˆط§ظ„ظ…ط²ظٹط¯
+> ظ‚ط§ط¦ظ…ط© طھظپط§ط¹ظ„ ط¬ط¯ظٹط¯ط© ظ‚ط§ط¨ظ„ط© ظ„ظ„طھظˆط³ظٹط¹ ظˆط¹ط´ط±ط§طھ ظ…ظ† ط±ط¯ظˆط¯ ط§ظ„ظپط¹ظ„ ط§ظ„ط¬ط¯ظٹط¯ط© ظ„ط¬ظ…ظٹط¹ ط§ظ„ظ…ط³طھط®ط¯ظ…ظٹظ†
+> طھظ†ط³ظٹظ‚ ط¬ط¯ظٹط¯ ظ„ظ„ط±ظˆط§ط¨ط· ط§ظ„ط¹ط§ظ…ط©: username.t.me
+> ظٹظ…ظƒظ† طھط­ط¯ظٹط¯ ط£ظˆظ„ظˆظٹط§طھ ط§ظ„طھظ†ط²ظٹظ„ط§طھ ظپظٹ Download Manager
+> طھط®ظپظٹط¶ ط¹ط¯ط¯ ط§ظ„ط­ط³ط§ط¨ط§طھ ظ…ظ† ط؛ظٹط± ظ…ط­ط¯ظˆط¯ ط¥ظ„ظ‰ 20
+> ط¥ط¹ط§ط¯ط© طھطµظ…ظٹظ… ظ…طھظƒظٹظپط© ظ„ظ„ط§ظٹظ‚ظˆظ†ط§طھ
+> ط²ظٹط§ط¯ط© ط³ط±ط¹ط© ط§ظ„طھط­ظ…ظٹظ„ ظˆط§ظ„طھظ†ط²ظٹظ„
+> ط¥ط¶ط§ظپط© ط®ظٹط§ط± ظ„ط¥ط®ظپط§ط، ظˆظ‚طھ ط§ظ„ظ…ظ„طµظ‚
+> ط¥طµظ„ط§ط­ ط¨ط¹ط¶ ط§ظ„ظ…ط´ط§ظƒظ„ ط§ظ„ظ…ط¨ظ„ط؛ ط¹ظ†ظ‡ط§
