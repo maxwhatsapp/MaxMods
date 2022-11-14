@@ -1,1 +1,14 @@
+Version  .  12.00 change:
 
+ > [Base Update] 223.1.0.14.103
+ > [Added] All the new Instagram features.
+ > [Exclusive] You can now show hidden chats by long pressing on the search box
+ > [Added] New design for app lock option
+ > [Remove] Fast video forwarding by Instagram
+ > [Fix] Developer Options
+ > [Fixed] Crashing issue when starting the app
+ > [Fix] The problem of loading in chats
+ > [Fix] The problem of not playing Stories videos automatically
+ > [Fix] The crash problem when changing the language in Android 12
+ > [Fixed] All crash problems
+ > [More] Fixes and improvements discovered by yourself.
