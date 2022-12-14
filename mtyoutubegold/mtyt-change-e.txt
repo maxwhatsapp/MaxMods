@@ -1,1 +1,6 @@
+Version 2.10. Changelog:
 
+>Base Update 17.45.36
+>Bugs Fixed
+>Fixed an offline problem on some devices
+>Lots of bug fixes in this update
