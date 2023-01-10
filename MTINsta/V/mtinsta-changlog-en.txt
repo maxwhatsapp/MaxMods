@@ -1,5 +1,6 @@
 Version 14.00 Changelog:
 
+>[Base Update] 240.2.0.18.107
 >[New ] New App Lock design
 >[Exclusive] You can now show hidden chats by long pressing on the search box
 >[Remove] Video Fast Forwarding By Instagram
