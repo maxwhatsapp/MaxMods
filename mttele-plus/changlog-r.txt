@@ -1,4 +1,4 @@
-Version 13.00. Changelog:
+Version 12.00. Changelog:
 
 > Updated source code to v9.3.3.1.
 > Added Download &amp; Upload speed booster (experimental, beta only).
