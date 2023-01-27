@@ -1,6 +1,6 @@
-Version 2.1. Changelog:
+Version 2.0. Changelog:
 
->Base Update 17.50.37
+>Base Update 18.02.34
 >Bugs Fixed
 >Fixed an offline problem on some devices
 >Lots of bug fixes in this update
