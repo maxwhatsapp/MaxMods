@@ -1,6 +1,6 @@
-Version 2.70. Changelog:
+Version 2.60. Changelog:
 
-> Based on the latest version of Google Play 27.8.4
+> Based on the latest version of Google Play 28.9.5
 > Added Chinese for start up menu
 > Add author tag to the name of the downloaded file
 > Added the ability to download profile pictures
