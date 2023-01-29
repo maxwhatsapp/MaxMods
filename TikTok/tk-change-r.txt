@@ -1,1 +1,28 @@
+Version 2.70. Changelog:
 
+> Based on the latest version of Google Play 27.8.4
+> Added Chinese for start up menu
+> Add author tag to the name of the downloaded file
+> Added the ability to download profile pictures
+> Added multi-language version
+> Add Monet app icon for multi-language version
+> Enable watch history
+> Enable HD video download button for everyone
+> Enable high fidelity music
+> Gold Tik Tok is the lightest Tik Tok in the world
+> Measurement disabled
+> Disable mandatory login
+> Bring back the font change support, but it is only available for the multi-language version
+> Fix antivirus false positives (again)
+> Fix the author tag for the downloaded file function name
+> Fix ads in the next tab
+> Fix Monet app icon enable watermark option for Android 13+
+> Fix antivirus false positives
+> Fixed rewind, now it works fine
+> Fix playback speed option
+> Fix the application crash issue on Android 13 for some devices
+> Fix and remove area codes Change is now only available in the plugin app
+> Fix slow video loading
+> Fix known crashes everywhere
+> Improve application performance
+> Improvements in overall application stability
