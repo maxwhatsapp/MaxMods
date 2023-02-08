@@ -1,28 +1,26 @@
-Version 2.60. Changelog:
-
-> Based on the latest version of Google Play 27.8.4
-> Added Chinese for start up menu
-> Add author tag to the name of the downloaded file
-> Added the ability to download profile pictures
-> Added multi-language version
-> Add Monet app icon for multi-language version
-> Enable watch history
-> Enable HD video download button for everyone
-> Enable high fidelity music
-> Gold Tik Tok is the lightest Tik Tok in the world
-> Measurement disabled
-> Disable mandatory login
-> Bring back the font change support, but it is only available for the multi-language version
-> Fix antivirus false positives (again)
-> Fix the author tag for the downloaded file function name
-> Fix ads in the next tab
-> Fix Monet app icon enable watermark option for Android 13+
-> Fix antivirus false positives
-> Fixed rewind, now it works fine
-> Fix playback speed option
-> Fix the application crash issue on Android 13 for some devices
-> Fix and remove area codes Change is now only available in the plugin app
-> Fix slow video loading
-> Fix known crashes everywhere
-> Improve application performance
-> Improvements in overall application stability
+الإصدار 2.60.1 سجل التغيير:
+> استنادًا إلى أحدث إصدار من Google Play 27.8.4
+> تمت إضافة الصينية لقائمة بدء التشغيل
+> إضافة علامة المؤلف إلى اسم الملف الذي تم تنزيله> تمت إضافة القدرة على تنزيل صور الملف الشخصي
+> تمت إضافة إصدار متعدد اللغات
+> إضافة تطبيق Monet رمز إصدار متعدد اللغات
+> تمكين سجل المشاهدة
+> تمكين زر تنزيل الفيديو عالي الدقة للجميع
+> تمكين موسيقى عالية الدقة
+> تيك توك الذهبي هو أخف Tik Tok في العالم
+> تم تعطيل القياس
+> تعطيل تسجيل الدخول الإلزامي
+> إعادة دعم تغيير الخط ، ولكنه متاح فقط للإصدار متعدد اللغات
+> إصلاح الإيجابيات الخاطئة لمكافحة الفيروسات (مرة أخرى)
+> إصلاح علامة المؤلف لاسم وظيفة الملف الذي تم تنزيله
+> إصلاح الإعلانات في علامة التبويب التالية
+> إصلاح رمز تطبيق Monet ، تمكين خيار العلامة المائية لنظام Android 13+
+> إصلاح الإيجابيات الكاذبة لمكافحة الفيروسات
+> إرجاع ثابت ، الآن يعمل بشكل جيد
+> إصلاح خيار سرعة التشغيل
+> إصلاح مشكلة تعطل التطبيق على Android 13 لبعض الأجهزة
+> إصلاح وإزالة رموز المنطقة التغيير متاح الآن فقط في تطبيق البرنامج المساعد
+> إصلاح slo w تحميل الفيديو
+> إصلاح الأعطال المعروفة في كل مكان
+> تحسين أداء التطبيق
+> تحسينات في استقرار التطبيق بشكل عام
