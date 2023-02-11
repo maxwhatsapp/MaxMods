@@ -1,4 +1,4 @@
-Version 14.0 Changelog:
+Version 15.0 Changelog:
 
 >[Fixed] problem of crashing when opening the Insta in some devices
 >[Fixed] problem of the collapse when entering the profile
