@@ -1,1 +1,1 @@
-
+{'num':'1', 'msgs':'حل مشكلة اعادة ضبط الخصوصية بالتطبيق يمكنكم اعادة تحميل\n\nTo solve the problem of resetting privacy in the application you can re-download'}
