@@ -1,6 +1,7 @@
-Version 3.0. Changelog:
+Version 4.0. Changelog:
 
->Base Update 18.02.34
->Bugs Fixed
->Fixed an offline problem on some devices
->Lots of bug fixes in this update
+>Based on YouTube base 18.11.36
+>Add speed change
+>Improved plugins interface
+>Add all new features
+>Fix all problems
