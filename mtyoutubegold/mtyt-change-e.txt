@@ -1,7 +1,7 @@
-Version 4.0. Changelog:
+Version 5.0. Changelog:
 
->Based on YouTube base 18.11.36
->Add speed change
->Improved plugins interface
->Add all new features
->Fix all problems
+>Base Update 18.16.39
+>Added All new features
+>Fixed Problem of hanging in some clips minutes after playing the video
+>Bugs Fixed
+>Lots of bug fixes in this update
