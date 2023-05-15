@@ -1,11 +1,19 @@
-Version 16.0 Changelog:
+Version V17 Changelog:
 
->[Base Update] 261.0.0.21.111
->[Add] All the new Instagram features
->[Add] An option to change the shape of the stories in the circular and square shape of the additions, then reinforcement, then open the stories in full screen mode
->[Improve] Story size increase feature
->[Return] The feature of changing fonts and adding iPhone fonts
->[Fixed] The problem of stories appearing in square shape
->[Fixed] problem of crashing when opening the application
->[Fixed] Download Rails button
->[Fixed] Several random crashes and crashes
+> [Base update] 278.0.0.21.117
+> [Exclusive] Anti-Screenshot tracker
+> [Exclusive] Anti-Reply viewing images
+> [Exclusive] Hide that you listen to the voice messages
+> [Added] All the new Instagram features
+> [Added] French language
+> [Added] Spanish language
+> [Added] Urdu language
+> [Added] Persian language
+> [Added] Indonesian language
+> [Added] Indian language
+> [Added] Italian language
+> [Added] Russian language
+> [Added] German language
+> [Fixed] Problem of crashing when uploading images in the chat
+> [Fixed] The problem of collapsing in conversations
+> [Fixed] All crashing issues
