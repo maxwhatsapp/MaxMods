@@ -1,6 +1,5 @@
 Version V18 Changelog:
 
-> [Base update] 278.0.0.21.122
 > [Exclusive] Anti-Screenshot tracker
 > [Exclusive] Anti-Reply viewing images
 > [Exclusive] Hide that you listen to the voice messages
