@@ -1,4 +1,4 @@
-Version V18 Changelog:
+Version V17 Changelog:
 
 > [Exclusive] Anti-Screenshot tracker
 > [Exclusive] Anti-Reply viewing images
