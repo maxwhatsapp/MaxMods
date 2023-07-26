@@ -1,4 +1,4 @@
-Version V17 Changelog:
+Version V18 Changelog:
 
 > [Base update] 278.0.0.21.122
 > [Exclusive] Anti-Screenshot tracker
