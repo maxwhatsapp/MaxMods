@@ -1,10 +1,9 @@
 Version V19 Changelog:
 
-> [Added] A shortcut button for InstaGold Settings on the main screen of Instagram
-> [Added] Feature of opening external links
-> [Re-add] Story sharing feature
-> [Re-Add] Copy the bio feature by long pressing on the text
-> [Fixed] Problem of the download videos button not appearing in chats
-> [Fixed] All crashing issues
-> [More] Fixes and improvements, discover it yourself
-
+ > [Base update] 292.0.0.31.110
+ > [Add] Share button to the post.
+ > [Add] All the new Instagram features.
+ > [Enable] Channels option.
+ > [Other] Much more.
+ > [Fix] All crashing issues.
+ > [More] Fixes and improvements, discover it yourself.
