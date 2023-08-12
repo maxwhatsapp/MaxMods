@@ -1,4 +1,4 @@
-Version  Changelog:
+Version V19 Changelog:
 
 > [Added] A shortcut button for InstaGold Settings on the main screen of Instagram
 > [Added] Feature of opening external links
