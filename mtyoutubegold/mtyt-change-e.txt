@@ -1,7 +1,8 @@
-Version 5.0. Changelog:
+Version 7.0. Changelog:
 
->Base Update 18.16.39
+>Base[Base] Updated 18.30.37 (Play Store)- Play Store
 >Added All new features
->Fixed Problem of hanging in some clips minutes after playing the video
->Bugs Fixed
->Lots of bug fixes in this update
+>Added Option Spoof player parameter to solve operating problems
+>Fixed Problem of video clips stopping minutes after playing the video
+>Fixed Toast "MicroG does not run in the background"
+>Fixed All problems
