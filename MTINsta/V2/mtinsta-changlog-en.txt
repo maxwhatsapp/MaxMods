@@ -1,9 +1,1 @@
-Version V19 Changelog:
 
- > [Base update] 292.0.0.31.110
- > [Add] Share button to the post.
- > [Add] All the new Instagram features.
- > [Enable] Channels option.
- > [Other] Much more.
- > [Fix] All crashing issues.
- > [More] Fixes and improvements, discover it yourself.
