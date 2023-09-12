@@ -2,6 +2,11 @@ Version V20 Changelog:
 
 > [Base update] 292.0.0.31.110
 > [Exclusive] Added Show Deleted Messages
+> [Added] Roll call
+> [Added] Stickers
+> [Added] Quick reply
+> [Added] Voice message, press and hold to record
+> [Added] Share shop products
 > [Added] All the new Instagram features
 > [Added] Share Button In Post
 > [Enable] Channels Option
@@ -9,5 +14,6 @@ Version V20 Changelog:
 > [Added]Feature of opening external links
 > [Re-add]Story sharing feature
 > [Re-Add]Copy the bio feature by long pressing on the text
+> [Fixed] Problem of the disappearance call button in the conversation
 > [Fixed] Problem of the download videos button not appearing in chats
 > [Fixed] All crashing issues
