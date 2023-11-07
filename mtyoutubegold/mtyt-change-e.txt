@@ -1,4 +1,4 @@
-Version 7.0. Changelog:
+Version 8.0. Changelog:
 
 >Base[Base] Updated 18.30.37 (Play Store)- Play Store
 >Added All new features
