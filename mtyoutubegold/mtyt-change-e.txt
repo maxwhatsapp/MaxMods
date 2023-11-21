@@ -1,8 +1,12 @@
-Version 8.0. Changelog:
+Version 9.0. Changelog:
 
->Base[Base] Updated 18.30.37 (Play Store)- Play Store
->Added All new features
->Added Option Spoof player parameter to solve operating problems
->Fixed Problem of video clips stopping minutes after playing the video
->Fixed Toast "MicroG does not run in the background"
->Fixed All problems
+>[Base] Update Updated to 18.43.45 - Play Store
+>[Added] All new features.
+>[Added] Hide videos with low views
+>[Added] Sanitize sharing links
+>[Added] Spoof player parameter in feed
+>[Added] Notification when downloading videos
+>[Fixed] Problem of video clips stopping minutes after playing the video
+>[Fixed] Toast "MicroG does not run in the background"
+>[Fixed] All problems
+>[Misc] Many other fixes and improvements that we forgot
