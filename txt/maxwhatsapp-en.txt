@@ -1,3 +1,6 @@
-Version 36 Changelog:
+Version 1 Changelog:
 
-> Download MaxWhatsApp
+> ➕{Added} You can post Status in linked device.
+> ➕{Added} See channels in linked device.
+> 🛠{Improved} More Anti-ban protection 🛡️.
+> 🛠{Fixed} Other fixes and improvements.
