@@ -1,3 +1,6 @@
-Version 36 Changelog:
+New update version V1:
 
-> Download MaxWhatsApp
+> ➕{Add} The ability to publish cases on linked devices.
+> ➕{Add} The ability to watch channels on connected devices.
+> 🛠{Improved} Increased protection against bans!🛡️.
+> 🛠{Repair} Other fixes and improvements.
