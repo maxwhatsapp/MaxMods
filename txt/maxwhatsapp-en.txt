@@ -1,6 +1,10 @@
-Version 1 Changelog:
+Version 2 Changelog:
 
-> ➕{Added} You can post Status in linked device.
-> ➕{Added} See channels in linked device.
-> 🛠{Improved} More Anti-ban protection 🛡️.
-> 🛠{Fixed} Other fixes and improvements.
+> ➕{add} protection against blocking.
+> ➕{add} search for a message by specifying the date.
+> ➕{add} the new format of WhatsApp.
+> ➕{improved} stealth mode feature. 
+> ✔️{activate} the official features of WhatsApp.
+> ✔️{activate} the official features of WhatsApp.
+> 🛠{fix} general bug fixes.
+> 🛠{More} other fixes and improvements.
