@@ -1,6 +1,10 @@
-New update version V1:
+New update version V2:
 
-> ➕{Add} The ability to publish cases on linked devices.
-> ➕{Add} The ability to watch channels on connected devices.
-> 🛠{Improved} Increased protection against bans!🛡️.
-> 🛠{Repair} Other fixes and improvements.
+> ➕{add} protection against blocking.
+> ➕{add} search for a message by specifying the date.
+> ➕{add} the new format of WhatsApp.
+> ➕{improved} stealth mode feature. 
+> ✔️{activate} the official features of WhatsApp.
+> ✔️{activate} the official features of WhatsApp.
+> 🛠{fix} general bug fixes.
+> 🛠{More} other fixes and improvements.
