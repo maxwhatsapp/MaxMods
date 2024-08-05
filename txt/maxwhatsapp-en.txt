@@ -1,10 +1,5 @@
-Version 2 Changelog:
+Version 3 Changelog:
 
-> ➕{add} protection against blocking.
-> ➕{add} search for a message by specifying the date.
-> ➕{add} the new format of WhatsApp.
-> ➕{improved} stealth mode feature. 
-> ✔️{activate} the official features of WhatsApp.
-> ✔️{activate} the official features of WhatsApp.
-> 🛠{fix} general bug fixes.
-> 🛠{More} other fixes and improvements.
+> 🌊{Updated} Extend the life of the version.
+> 🛠{Fixed} Fix the connection problem (if the connection fails, change your network operator).
+> 🛠{Fixed} Other fixes and improvements.
