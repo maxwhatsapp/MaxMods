@@ -1,10 +1,5 @@
-New update version V2:
+جديد تحديث الاصدار V3 :
 
-> ➕{add} protection against blocking.
-> ➕{add} search for a message by specifying the date.
-> ➕{add} the new format of WhatsApp.
-> ➕{improved} stealth mode feature. 
-> ✔️{activate} the official features of WhatsApp.
-> ✔️{activate} the official features of WhatsApp.
-> 🛠{fix} general bug fixes.
-> 🛠{More} other fixes and improvements.
+> 🌊 {تحديث} تمديد عمر النسخة.
+> 🛠 {إصلاح} اصلاح مشكلة الربط(اذا فشل الربط قم بتغيير مشغل الشبكة الخاص بك).
+> 🛠{إصلاح}  إصلاحات وتحسينات أخرى .
