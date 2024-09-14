@@ -1,5 +1,19 @@
-Version 3 Changelog:
+Version 4 Changelog:
 
-> 🌊{Updated} Extend the life of the version.
-> 🛠{Fixed} Fix the connection problem (if the connection fails, change your network operator).
-> 🛠{Fixed} Other fixes and improvements.
+> ⬆️Update WhatsApp base to 2.24.14.77
+> ➕Activate sending cases with high quality.
+> ➕{activate} the impress action feature for cases.
+> ➕{activate} activate the events feature in groups.
+> ➕{activate} activating the nearby People feature allows you to find friends near you.
+> ➕{activate} activate the new Call creation button feature.
+> ➕{activation} activate the ability to send contacts in the linked devices.
+> ➕{add} added an option to hide the names of contacts in the Home screen 
+> ➕{Add} Add option to change server themes.
+> ➕{add} add new notification icons.
+> ➕{add} re-add navigation effects.
+> ➕{add} added the feature of not blocking temporary messages.
+> 🛠{improved} stealth feature codes have been improved.
+> 🛠improved} changing the hands of the device has been optimized to be changed weekly for more protection.
+> 🛠{fix} long video slicing feature has been fixed for cases.
+> 🛠{fix} some problems have been fixed.
+> 🛠{More} other fixes and improvements.
