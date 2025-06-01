@@ -1,17 +1,14 @@
-Version 4 Changelog:
+Version 6 Changelog:
 
-> ⬆️Update WhatsApp base to 2.24.14.77
-> ➕Activate sending cases with high quality.
-> ➕{activate} the impress action feature for cases.
-> ➕{activate} activate the events feature in groups.
-> ➕{activate} activating the nearby People feature allows you to find friends near you.
-> ➕{activate} activate the new Call creation button feature.
-> ➕{activation} activate the ability to send contacts in the linked devices.
-> ➕{add} added an option to hide the names of contacts in the Home screen 
-> ➕{Add} Add option to change server themes.
-> ➕{add} add new notification icons.
-> ➕{add} re-add navigation effects.
-> ➕{add} added the feature of not blocking temporary messages.
+> ⬆️Update Update WhatsApp base to 2.24.25.78
+>⛏ ImprovedMore Anti-ban protection 🛡️
+>⛏ ImprovedApplication is now stable
+>➕️Added 2 new Instagram story styles 
+>➕️Added Added a new status coloring feature 
+>➕️Enable Activate chat feature with AI
+>✔️Enable  List feature 
+>✔️Enable Activate Photo filter and effects on pic taking
+>✔️Enable Activate video call filter and effects features
 > 🛠{improved} stealth feature codes have been improved.
 > 🛠improved} changing the hands of the device has been optimized to be changed weekly for more protection.
 > 🛠{fix} long video slicing feature has been fixed for cases.
